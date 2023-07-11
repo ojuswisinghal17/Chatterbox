@@ -1,0 +1,7 @@
+[submodule "cchat"]
+    path = cchat
+    url = https://github.com/ojuswisinghal17/chatterbox_frontend.git
+
+[submodule "server"]
+    path = server
+    url = https://github.com/ojuswisinghal17/chatterbox_server.git
